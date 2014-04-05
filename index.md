@@ -3,6 +3,7 @@ title: Using Remote Servers for Deep Learning, Part 1: Installing Python Package
 date: 2014-03-27
 author: Eliana
 mathjax: on
+published: true
 ---
 
 Motivation
