@@ -4,6 +4,7 @@ date: 2014-03-27
 author: Eliana
 mathjax: on
 published: true
+tags: deep learning, programming, python, unix
 ---
 
 Motivation
